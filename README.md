@@ -13,7 +13,7 @@ $ sudo apt install python3 python3-pip
 
 Clone the repository
 
-$ git clone https://github.com/musab-tatek/tian263.git
+$ git clone https://github.com/tian263/wifidos.git
 
 Go to the Directory
 
